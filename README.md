@@ -1,6 +1,7 @@
 # filter-app
 
 > A Vue.js project
+>参考サイト　https://medium.com/covenant-university-developers-community/building-a-simple-data-filtering-app-with-vue-js-521420c73899
 
 ## Build Setup
 
